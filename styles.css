@@ -1,0 +1,51 @@
+
+
+body{
+    background-color: blueviolet;
+    margin: 0;
+    text-align: center;
+}
+
+h1{
+    margin: 0 auto;
+    top: 300px;
+    font-family: 'Playfair Display', serif;
+}
+
+.footer-link{
+    font-family: 'Noto Sans Mono', monospace;
+}
+.top-container{
+    position: relative;
+    background-color: yellowgreen;
+    padding: 100px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    width:200px;
+    height:200px
+
+}
+
+.bottom-cloud{
+    position:absolute;
+    bottom: 300px;
+    left: 300px;
+    width: 200px;
+    height: 200px;
+}
+.profile{
+    background-color: lightcoral;
+    padding: 10px;
+}
+
+.skills{
+    background-color: cyan;
+    padding: 10px;
+}
+
+.bottem-container{
+    background-color: brown;
+}
